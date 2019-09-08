@@ -12,6 +12,14 @@ body, html {
   
 }
 
+.small {
+  
+}
+
+.medium {
+  
+}
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
