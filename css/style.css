@@ -9,7 +9,7 @@ body, html {
 }
 
 .column {
-  display:;
+  display: flex 1;
 }
 
 .small {
